@@ -2,6 +2,10 @@
   <img src="https://media.tenor.com/nM8dVqlFQKAAAAAi/blue-archive-jumping.gif" width="180" style="border-radius: 20px;" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HanX-ID&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
+</p>
+
 ## My Profile 🕵️
 ```json
 {
