@@ -1,12 +1,14 @@
-<div align="center">
-  <img src="https://media.tenor.com/nM8dVqlFQKAAAAAi/blue-archive-jumping.gif" width="180" style="border-radius: 20px;" />
-</div>
+<p align="center">
+  <img src="https://cardivo.vercel.app/api?name=HanX%20-%20ID&description=sleeping%20soundly%20in%20isekai&image=https://files.catbox.moe/7zeejv.jpg&backgroundColor=%23ffffff&github=HanX-ID&telegram=HanX_6666&pattern=topography&colorPattern=%23e0e0e0" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HanX-ID&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
 </p>
 
-## My Profile 🕵️
+---
+
+## 🕵️ My Profile
 ```json
 {
   "name": "farhan",
@@ -20,15 +22,14 @@
 }
 ```
 ---
-
-## My Skills
+### 🧠 My Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/html--css-1a1a1a?style=for-the-badge&logo=html5&logoColor=orange" />
   <img src="https://img.shields.io/badge/nodejs-1a1a1a?style=for-the-badge&logo=node.js&logoColor=green" />
   <img src="https://img.shields.io/badge/python-1a1a1a?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/dev%20bot-1a1a1a?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/pentes%20tools-1a1a1a?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/pentest%20tools-1a1a1a?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/mancing-1a1a1a?style=for-the-badge&logo=fishing&logoColor=blue" />
   <img src="https://img.shields.io/badge/tidur-1a1a1a?style=for-the-badge&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/marathon%20anime-1a1a1a?style=for-the-badge&logo=tvtime&logoColor=yellow" />
@@ -36,7 +37,7 @@
 
 ---
 
-## Contacts Me
+### 📞 Contacts Me
 
 <div align="center">
   <a href="https://t.me/HanX_6666">
