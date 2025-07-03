@@ -45,29 +45,12 @@ breaks stuff for fun, and builds tools that probably no one asked for.
 
 ---
 
-### 🧠 Current Goals
+### 🧠 Current Goals 
   
-▸ migrate bot to modular command system  
-▸ rewrite spam script using async queue   
-▸ build encrypted py tools for termux   
-▸ launch public api endpoints (rate limited)  
-▸ redesign portfolio with react & tailwind  
-
-
----
-
-### 📂 Featured Projects
-
-🔥 multi-service spam bot — otp spammer using multiple endpoints
-
-⚙️ wa bot CLI — whatsapp automation from terminal (baileys-based)
-
-📡 api status dashboard — uptime monitor for custom apis
-
-🕶 encrypted python runner — obfuscated code executor with fingerprint lock
-
-📦 termux pentest suite — custom tools for quick scans & automation
-
+▸ helping others with pleasure  
+▸ focus of educational goals   
+▸ work hard to survive  
+▸ create tools to make things easier for others  
 
 
 ---
@@ -79,14 +62,6 @@ breaks stuff for fun, and builds tools that probably no one asked for.
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanX-ID&layout=compact&theme=github_dark" />
 </p>
-
----
-
-
-### ⚡ Productivity Quote
-
-> “move fast. write clean. break rules. fix fast.”
-
 
 ---
 
