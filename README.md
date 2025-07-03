@@ -39,7 +39,7 @@ breaks stuff for fun, and builds tools that probably no one asked for.
   <img src="https://img.shields.io/badge/bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-111111?style=for-the-badge&logo=githubactions&logoColor=blue" />
   <img src="https://img.shields.io/badge/termux-111111?style=for-the-badge&logo=terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/insomnia-111111?style=for-the-badge&logo=insomnia&logoColor=blueviolet" />
+  <img src="https://img.shields.io/badge/marathon%20anime-111111?style=for-the-badge&logo=insomnia&logoColor=blueviolet" />
   <img src="https://img.shields.io/badge/vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
