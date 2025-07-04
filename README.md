@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=HanX%20-%20ID&description=suka%20+%20ngoding%20+%20sambil%20+%20nonton%20+%20anime&image=https://files.catbox.moe/388faa.jpg&backgroundColor=%23ffffff&textColor=%23ffffff&github=HanX-ID&pattern=topography&colorPattern=%23e0e0e0" />
+  <img src="https://cardivo.vercel.app/api?name=HanX%20+%20ID&description=suka%20+%20ngoding%20+%20sambil%20+%20nonton%20+%20anime&image=https://files.catbox.moe/388faa.jpg&backgroundColor=%23ffffff&textColor=%23ffffff&github=HanX-ID&pattern=topography&colorPattern=%23e0e0e0" />
 </p>
 
 <p align="center">
