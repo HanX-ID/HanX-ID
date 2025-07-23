@@ -14,13 +14,32 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-Name     : Farhan
-Alias    : HanX
-Age      : 16
-Location : Mojokerto, East Java, Indonesia
-Tools    : termux, android, insomnia, github
-Focus    : Whatsapp Bot, Scripting, Reverse Api
+```javascript
+const α = ["W", "h", "a", "t", "s", "a", "p", "p", " ", "B", "o", "t"];
+const β = ["S", "c", "r", "i", "p", "t", "i", "n", "g"];
+const γ = ["R", "e", "v", "e", "r", "s", "e", " ", "A", "P", "I"];
+const δ = [["Termux", 1], ["Android", 1], ["Insomnia", 1], ["GitHub", 1], ["VSCode", 0]];
+const ε = ["F", "a", "r", "h", "a", "n"];
+const ζ = ["H", "a", "n", "X"];
+const η = [1, 6];
+const θ = ["M", "o", "j", "o", "k", "e", "r", "t", "o"];
+const ι = ["E", "a", "s", "t", " ", "J", "a", "v", "a"];
+const κ = ["I", "n", "d", "o", "n", "e", "s", "i", "a"];
+
+function join(a) { return a.map(ch => ch).join(""); }
+function combineAge(a) { return Number(a.join("")); }
+function filterTools(t) { return t.filter(i => i[1] === 1).map(i => i[0]); }
+function obfuscatedFocus() { return [join(α), join(β), join(γ)]; }
+
+const sigma = {};
+obf[atob("bmFtZQ==")] = join(ε);
+obf[atob("YWxpYXM=")] = join(ζ);
+obf[atob("YWdl")] = combineAge(η);
+obf[atob("bG9jYXRpb24=")] = `${join(θ)}, ${join(ι)}, ${join(κ)}`;
+obf[atob("dG9vbHM=")] = filterTools(δ);
+obf[atob("Zm9jdXM=")] = obfuscatedFocus();
+
+console.log(sigma);
 ```
 > i'm just a self-taught dev who writes code in dark rooms,
 breaks stuff for fun, and builds tools that probably no one asked for.
